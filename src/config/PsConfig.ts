@@ -14,7 +14,7 @@ export default class PsConfig {
     /// If you want to upload to server, please enable below and comment Development below
     ///
     static fixedDomain: String = "https://casacar.xyz/admotors"; 
-    static domain: String = "http://localhost:3000"; 
+    static domain: String = "https://resonant-syrniki-d05a27.netlify.app/"; 
 
     ///
     /// Development Mode
